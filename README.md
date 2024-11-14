@@ -45,6 +45,12 @@ Titanic 데이터셋은 여러 요인들이 생존 확률에 영향을 미쳤던
 
 This project aims to build a machine learning model using Titanic survival data to analyze and predict the impact of **Pclass (Ticket Class)** and **Age** on survival rates. The project is based on Python and includes code and explanations for data preprocessing and model training.
 
+## Dataset
+https://www.kaggle.com/c/titanic/data
+
+## nbviewer
+https://nbviewer.org/github/YeonJoon-Ryu/MLproject/blob/main/ryu_tatanic.ipynb
+
 ## Project Overview
 
 The Titanic dataset was created based on various factors that influenced survival probabilities. This model focuses on predicting the effect of the relationship between **Pclass** and **Age** on survival outcomes.
