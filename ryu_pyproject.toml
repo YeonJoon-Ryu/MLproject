@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "Titanic Survival Prediction"
+version = "0.1.0"
+description = "A machine learning model to predict survival on the Titanic using Pclass and Age features."
+authors = ["YEONJOON-RYU <Personal : coocirun@gmail.com>", "YEONJOON-RYU <Business : niallgull02@syuin.ac.kr>"]
+license = "MIT"
+keywords = ["machine learning", "titanic", "survival prediction", "classification"]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.11"
+numpy = "1.24.3"
+pandas = "1.5.3"
+seaborn = "0.12.2"
+scikit-learn = "1.2.2"
+
+[tool.poetry.urls]
+"Dataset Source" = "https://www.kaggle.com/c/titanic"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
