@@ -5,6 +5,9 @@
 ## 데이터셋 링크
 https://www.kaggle.com/c/titanic/data
 
+## bnviewer 링크
+https://nbviewer.org/github/YeonJoon-Ryu/MLproject/blob/main/ryu_tatanic.ipynb
+
 ## 프로젝트 개요
 
 Titanic 데이터셋은 여러 요인들이 생존 확률에 영향을 미쳤던 상황을 바탕으로 만들어졌습니다. 이 모델은 **Pclass**와 **Age**의 상관관계가 생존 여부에 미치는 영향을 예측하는 것에 초점을 맞춥니다.
