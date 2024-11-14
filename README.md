@@ -5,7 +5,7 @@
 ## 데이터셋 링크
 https://www.kaggle.com/c/titanic/data
 
-## bnviewer 링크
+## nbviewer 링크
 https://nbviewer.org/github/YeonJoon-Ryu/MLproject/blob/main/ryu_tatanic.ipynb
 
 ## 프로젝트 개요
